@@ -16,3 +16,5 @@ public class _238_ProductofArrayExceptSelf {
         return answer;
     }
 }
+//TC=O(n)
+//SC=O(1)
