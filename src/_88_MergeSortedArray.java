@@ -9,3 +9,5 @@ public class _88_MergeSortedArray {
         Arrays.sort(nums1);
     }
 }
+//TC: O((m+n) log(m+n))
+//SC: O(1)
