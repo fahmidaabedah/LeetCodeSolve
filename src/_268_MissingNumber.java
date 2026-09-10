@@ -13,3 +13,5 @@ public class _268_MissingNumber {
     }
 
 }
+//TC=O(n)
+//SC=O(1)
