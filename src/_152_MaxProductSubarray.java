@@ -1,4 +1,4 @@
-public class _152_MaxProductSubarray {
+ public class _152_MaxProductSubarray {
     public int maxProduct(int[] nums) {
         int currentMax = nums[0];
         int currentMin = nums[0];
