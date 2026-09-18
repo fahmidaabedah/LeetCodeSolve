@@ -15,5 +15,5 @@ public class _49_GroupAnagrams {
         return new ArrayList<>(map.values());
     }
 }
-//TC: \(O(N \times K \log K)\) — To loop through N words and sort K characters per word.
-// SC: \(O(N \times K)\) — To store all N words of length K inside the HashMap.
+//TC: O(N * K log K) — To loop through N words and sort K characters per word.
+//SC: O(N * K)       — To store all N words of length K inside the HashMap.
