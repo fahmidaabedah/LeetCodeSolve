@@ -23,3 +23,5 @@ public class _5_LongestPalindromicSubstring {
         return s.substring(left + 1, right);
     }
 }
+//TC= for (n) × expand (n) = O(n²)
+//SC=O(n) --->for substring()
